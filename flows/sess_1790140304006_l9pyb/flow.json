@@ -10343,36 +10343,6 @@
       "blurRegions": [],
       "metadata": {},
       "imageFile": null
-    },
-    {
-      "id": "step_1790147219973_trecu",
-      "order": 124,
-      "title": "Click navis",
-      "description": "",
-      "notes": "",
-      "appName": "navis",
-      "stepType": "click",
-      "instruction": "",
-      "actionType": "left_click",
-      "bgColor": "#111827",
-      "x": null,
-      "y": null,
-      "hotspot": null,
-      "annotations": [],
-      "blurRegions": [],
-      "metadata": {
-        "targetName": "",
-        "targetType": "",
-        "appName": "navis",
-        "canonicalAppName": "navis",
-        "calloutOffsetX": 0,
-        "calloutOffsetY": 0,
-        "value": "",
-        "key": "",
-        "waitingDuration": null,
-        "elementBounds": null
-      },
-      "imageFile": null
     }
   ],
   "reviewStatus": "draft",
@@ -10380,5 +10350,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 4
+  "versionMinor": 5
 }
