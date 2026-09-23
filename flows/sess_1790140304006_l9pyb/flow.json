@@ -75,7 +75,7 @@
         "CapturedAt": "2026-09-23T05:12:00.820Z",
         "tier": "2",
         "scenarioPassed": "2",
-        "detectionMethod": "layer2_jab",
+        "detectionMethod": "manual",
         "needsCv": false,
         "targetName": "Gate",
         "targetType": "Menu",
@@ -116,7 +116,7 @@
         "hasAutoCalloutRun": true,
         "calloutOffsetX": 0,
         "calloutOffsetY": 0,
-        "waitingDuration": null
+        "waitingDuration": 1
       },
       "imageFile": "images/step_1790140320821_abyzg.png"
     },
@@ -10331,5 +10331,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 1
+  "versionMinor": 2
 }
