@@ -10324,6 +10324,25 @@
         "interactionId": "1790141742298_yrhnxrv"
       },
       "imageFile": "images/step_1790141742440_c3ikq.png"
+    },
+    {
+      "id": "step_1790147051273_nmnzj",
+      "order": 123,
+      "title": "Blank Step 124",
+      "description": "",
+      "notes": "",
+      "appName": "",
+      "stepType": "click",
+      "instruction": "",
+      "actionType": "left_click",
+      "bgColor": "#111827",
+      "x": null,
+      "y": null,
+      "hotspot": null,
+      "annotations": [],
+      "blurRegions": [],
+      "metadata": {},
+      "imageFile": null
     }
   ],
   "reviewStatus": "draft",
@@ -10331,5 +10350,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 2
+  "versionMinor": 3
 }
