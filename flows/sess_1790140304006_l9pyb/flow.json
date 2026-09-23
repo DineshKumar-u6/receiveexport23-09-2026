@@ -75,7 +75,7 @@
         "CapturedAt": "2026-09-23T05:12:00.820Z",
         "tier": "2",
         "scenarioPassed": "2",
-        "detectionMethod": "manual",
+        "detectionMethod": "layer2_jab",
         "needsCv": false,
         "targetName": "Gate",
         "targetType": "Menu",
@@ -116,7 +116,7 @@
         "hasAutoCalloutRun": true,
         "calloutOffsetX": 0,
         "calloutOffsetY": 0,
-        "waitingDuration": 2
+        "waitingDuration": null
       },
       "imageFile": "images/step_1790140320821_abyzg.png"
     },
@@ -10324,25 +10324,6 @@
         "interactionId": "1790141742298_yrhnxrv"
       },
       "imageFile": "images/step_1790141742440_c3ikq.png"
-    },
-    {
-      "id": "step_1790147051273_nmnzj",
-      "order": 123,
-      "title": "Blank Step 124",
-      "description": "",
-      "notes": "",
-      "appName": "",
-      "stepType": "click",
-      "instruction": "",
-      "actionType": "left_click",
-      "bgColor": "#111827",
-      "x": null,
-      "y": null,
-      "hotspot": null,
-      "annotations": [],
-      "blurRegions": [],
-      "metadata": {},
-      "imageFile": null
     }
   ],
   "reviewStatus": "draft",
@@ -10350,5 +10331,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 5
+  "versionMinor": 1
 }
