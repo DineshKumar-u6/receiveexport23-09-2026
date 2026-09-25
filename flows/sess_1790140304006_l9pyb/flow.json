@@ -10508,6 +10508,44 @@
         "interactionId": "1790141742298_yrhnxrv"
       },
       "imageFile": "images/step_1790327922436_5bwz1.png"
+    },
+    {
+      "id": "step_1790328247090_pjeyt",
+      "order": 125,
+      "title": "Blank Step 126",
+      "description": "",
+      "notes": "",
+      "appName": "",
+      "stepType": "click",
+      "instruction": "",
+      "actionType": "left_click",
+      "bgColor": "#111827",
+      "x": null,
+      "y": null,
+      "hotspot": null,
+      "annotations": [],
+      "blurRegions": [],
+      "metadata": {},
+      "imageFile": null
+    },
+    {
+      "id": "step_1790328261761_xbv2s",
+      "order": 126,
+      "title": "Blank Step 127",
+      "description": "",
+      "notes": "",
+      "appName": "",
+      "stepType": "click",
+      "instruction": "",
+      "actionType": "left_click",
+      "bgColor": "#111827",
+      "x": null,
+      "y": null,
+      "hotspot": null,
+      "annotations": [],
+      "blurRegions": [],
+      "metadata": {},
+      "imageFile": null
     }
   ],
   "reviewStatus": "draft",
@@ -10515,5 +10553,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 3
+  "versionMinor": 4
 }
