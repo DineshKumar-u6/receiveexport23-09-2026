@@ -17,6 +17,15 @@
       "authorEmail": "maker@itrace.local",
       "body": "hi",
       "createdAt": "2026-09-25 09:04:12"
+    },
+    {
+      "id": "comment_1790327149751_wmzm9z",
+      "stepId": "step_1790140320821_abyzg",
+      "authorName": "Maya Patel",
+      "authorRole": "maker",
+      "authorEmail": "maker@itrace.local",
+      "body": "hlo",
+      "createdAt": "2026-09-25 09:05:49"
     }
   ]
 }
